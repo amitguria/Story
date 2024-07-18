@@ -7,3 +7,4 @@ My masterpiece.
 ![Task master image](https://github.com/amitguria/Story/assets/110809249/ccd063b7-b15f-433e-9ab7-b9a66c4732e0)
 ![Simon Game](https://github.com/amitguria/Story/assets/110809249/f4ee150d-0e02-4cec-96bc-90cd67ccd39c)
 ![Tindog Website](https://github.com/amitguria/Story/assets/110809249/6ad05980-867b-409f-a354-b0fde14ca6f5)
+![Screenshot 2024-07-18 121044](https://github.com/user-attachments/assets/a8a9ec7a-f7b4-4816-8e3b-a132ac6dead0)
