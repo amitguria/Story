@@ -9,3 +9,4 @@ My masterpiece.
 ![Tindog Website](https://github.com/amitguria/Story/assets/110809249/6ad05980-867b-409f-a354-b0fde14ca6f5)
 ![Screenshot 2024-07-18 121044](https://github.com/user-attachments/assets/a8a9ec7a-f7b4-4816-8e3b-a132ac6dead0)
 ![Screenshot 2024-07-18 165956qwqw](https://github.com/user-attachments/assets/3efeb14e-d50b-4bd6-8e87-1fafe73bdbd5)
+![gemini clone](https://github.com/user-attachments/assets/a10db359-4972-40f7-b429-5bced944db95)
